@@ -4,7 +4,7 @@
 </div> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ho+Quoc+Huy;Software+Engineer;Front-end+Developer;AI%2FNLP+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ho+Quoc+Huy;Software+Engineer;Front-end+Developer" />
 </h1>
 
 <h3 align="center">CS junior @ Ho Chi Minh City Open University</h3>
