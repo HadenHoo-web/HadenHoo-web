@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ho+Quoc+Huy;Software+Engineer;Front-end+Developer" />
 </h1>
 
-<h3 align="center">CS junior @ Ho Chi Minh City Open University</h3>
+<h3 align="center">IT junior @ Ho Chi Minh City Open University</h3>
 
 <br/>
 
@@ -15,8 +15,6 @@
 
 ✨ I turn ideas into simple, reliable products and can take a feature from planning to launch.  
 🎯 Open to <b>internship / part-time</b> opportunities.  
-🧠 Currently building an <b>AI/NLP capstone</b>: an assistant that connects employers with candidates via skills extraction and semantic matching (embeddings) with ranking.
-
 </div>
 
 <br/>
