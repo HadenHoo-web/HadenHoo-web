@@ -36,7 +36,7 @@
 ## ⚙️ Tech I use
 <div align="left">
   
-<img src="https://skillicons.dev/icons?i=html,css,py,js,react,mysql,bootstrap,github,wordpress&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,py,js,react,mysql,bootstrap,github,wordpress,phpmyadmin&perline=12" />
 
 </div>
 
