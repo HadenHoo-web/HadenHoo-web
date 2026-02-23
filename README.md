@@ -26,9 +26,6 @@
   <a href="https://github.com/HadenHoo-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
 </div>
 
 ---
@@ -36,16 +33,7 @@
 ## ⚙️ Tech I use
 <div align="left">
   
-<img src="https://skillicons.dev/icons?i=html,css,py,js,react,mysql,bootstrap,github,wordpress,phpmyadmin&perline=12" />
-
+<img src="https://skillicons.dev/icons?i=html,css,php,py,js,react,mysql,bootstrap,github,wordpress&perline=12" />
 </div>
 
 ---
-
-<!-- Optional: GitHub stats (uncomment if you want)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DatLe328&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DatLe328&theme=default" />
-</div>
--->
-
